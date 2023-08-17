@@ -1,4 +1,3 @@
-package Polymorphism;
 
 public class overriding {
     public void DisplayInfo(){
