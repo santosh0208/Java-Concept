@@ -6,9 +6,9 @@ class Overloading{
         System.out.println(x+y);
     }
 }
+class Main{
 public static void main(String[] args) {
     Overloading Myover = new Overloading();
     Overloading Myload = new Overloading(5 , 10);
-    System.out.println(Myload);
-    System.out.println(Myover);
+}
 }

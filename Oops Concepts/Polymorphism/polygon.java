@@ -1,4 +1,3 @@
-package Polymorphism;
 
 class Polygon {
   public void render() {

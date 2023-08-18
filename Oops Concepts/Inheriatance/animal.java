@@ -1,4 +1,4 @@
-package Inheriatance;
+
 
 class Animal {
   String name;

@@ -1,4 +1,4 @@
-package Collections.Interface;
+
 
 import java.util.Scanner;
 
